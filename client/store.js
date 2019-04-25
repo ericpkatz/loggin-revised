@@ -3,7 +3,7 @@ import loggerMiddleware from 'redux-logger'
 import thunkMiddleware from 'redux-thunk'
 
 
-const userReducer = (state = { }, action) => {
+const userReducer = (state = {  }, action) => {
   return state;
 }
 
